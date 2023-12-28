@@ -1,4 +1,14 @@
-build/*
-plugins/*
 node_modules
-__pycache__
+.github
+.vscode
+assets
+docs
+libs
+source
+test
+LICENSE.md
+package*.json
+README.md
+*.bat
+*.lock
+tools
